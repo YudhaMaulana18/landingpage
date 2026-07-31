@@ -50717,7 +50717,7 @@ m=q.ay
 l=q.as
 q=q.ok
 q=q.p2
-if(q==null)q=B.KZ
+if(q==null)q=B.KY
 k=A.zZ(q,new A.dj(m,a1,a1,a1,a1,a2,a1,a1,a1),a1)
 if(a0.gnK()){a2=a0.gpU()
 a2.toString}else{a2=a0.gpU()
@@ -88693,7 +88693,7 @@ return s},
 $S:537}
 A.acI.prototype={
 $3(a,b,c){var s=null
-if(b.e)return A.ag0(s,s,A.eE(A.bx(A.b([A.aB(s,B.KU,B.l,s,s,new A.aI(B.L,s,s,A.b0(12),s,s,B.t),s,s,s,B.fg,s,s,s),B.bi,B.a1p,B.j1,A.a2("Sistem Akademik",s,s,s,A.c6(s,s,B.L,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j_,B.Gg],t.p),B.p,B.bI,B.o),s,s),s,s)
+if(b.e)return A.ag0(s,s,A.eE(A.bx(A.b([A.aB(s,B.KT,B.l,s,s,new A.aI(B.L,s,s,A.b0(12),s,s,B.t),s,s,s,B.fg,s,s,s),B.bi,B.a1p,B.j1,A.a2("Sistem Akademik",s,s,s,A.c6(s,s,B.L,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j_,B.Gg],t.p),B.p,B.bI,B.o),s,s),s,s)
 if(b.b!=null)return B.PX
 return B.PU},
 $S:538}
@@ -88918,7 +88918,7 @@ m=p.y
 m===$&&A.a()
 l=p.z
 l===$&&A.a()
-n.push(A.Ci(!0,A.eE(new A.be(B.JG,new A.da(m,!1,A.ko(A.bx(A.b([new A.vQ(new A.as(0.7,1,t.Y),new A.arw(),A.aB(o,B.KS,B.l,o,o,new A.aI(o,o,o,A.b0(24),A.b([new A.ba(0,B.C,B.L.aI(0.4),B.lZ,32)],t.V),B.fr,B.t),o,80,o,o,o,o,80),B.F0,B.p5,o,o,t.HN),B.j_,new A.PM(new A.arx(),B.a0z,o),B.mH,A.a2("Sistem informasi manajemen kegiatan akademik\nproses belajar mengajar yang terintegrasi.",o,o,o,A.c6(o,o,B.h.aI(0.65),o,o,o,o,o,o,o,o,14,o,o,o,o,1.6,!0,o,o,o,o,o,o,o,o),B.dG,o),B.BC,A.bD(A.b([p.xd(B.lk,"Kelola KRS"),B.mF,p.xd(B.Kn,"Jadwal"),B.mF,p.xd(B.ll,"Presensi"),B.mF,p.xd(B.Kl,"Nilai")],q),B.p,B.bI,B.o,0,o)],q),B.p,B.m,B.ar),l,o,!0),o),o),o,o),!0))
+n.push(A.Ci(!0,A.eE(new A.be(B.JG,new A.da(m,!1,A.ko(A.bx(A.b([new A.vQ(new A.as(0.7,1,t.Y),new A.arw(),A.aB(o,B.KV,B.l,o,o,new A.aI(o,o,o,A.b0(24),A.b([new A.ba(0,B.C,B.L.aI(0.4),B.lZ,32)],t.V),B.fr,B.t),o,80,o,o,o,o,80),B.F0,B.p5,o,o,t.HN),B.j_,new A.PM(new A.arx(),B.a0z,o),B.mH,A.a2("Sistem informasi manajemen kegiatan akademik\nproses belajar mengajar yang terintegrasi.",o,o,o,A.c6(o,o,B.h.aI(0.65),o,o,o,o,o,o,o,o,14,o,o,o,o,1.6,!0,o,o,o,o,o,o,o,o),B.dG,o),B.BC,A.bD(A.b([p.xd(B.lk,"Kelola KRS"),B.mF,p.xd(B.Kn,"Jadwal"),B.mF,p.xd(B.ll,"Presensi"),B.mF,p.xd(B.Kl,"Nilai")],q),B.p,B.bI,B.o,0,o)],q),B.p,B.m,B.ar),l,o,!0),o),o),o,o),!0))
 return A.aB(o,A.kr(B.bE,n,B.I,B.bM,o),B.l,o,o,B.Ec,o,o,o,o,o,o,o)},
 xd(a,b){var s=null,r=B.h.aI(0.08),q=A.b0(14),p=A.fq(B.h.aI(0.14))
 return A.bx(A.b([A.aB(s,A.d2(a,B.cQ,s,20),B.l,s,s,new A.aI(r,s,p,q,s,s,B.t),s,48,s,s,s,s,48),B.bx,A.a2(b,s,s,s,A.c6(s,s,B.h.aI(0.6),s,s,s,s,s,s,s,s,11.5,s,s,B.X,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.p,B.m,B.o)},
@@ -88927,11 +88927,11 @@ j===$&&A.a()
 s=l.z
 s===$&&A.a()
 r=t.p
-q=A.bD(A.b([A.aB(k,B.KY,B.l,k,k,new A.aI(k,k,k,A.b0(12),k,B.fr,B.t),k,40,k,k,k,k,40),B.h0,B.a1H],r),B.p,B.m,B.o,0,k)
+q=A.bD(A.b([A.aB(k,B.L1,B.l,k,k,new A.aI(k,k,k,A.b0(12),k,B.fr,B.t),k,40,k,k,k,k,40),B.h0,B.a1H],r),B.p,B.m,B.o,0,k)
 p=A.a2("Silakan masukkan kredensial Anda untuk melanjutkan",k,k,k,A.c6(k,k,B.af,k,k,k,k,k,k,k,k,14,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 o=A.aGc(l.e,B.Ld,B.C5,!1,new A.arA())
 n=l.r
-n=A.aGc(l.f,A.aEi(k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,"Masukkan kata sandi",k,k,k,k,k,k,k,k,k,!0,!0,!1,k,B.L1,k,k,k,k,k,k,A.MC(k,k,A.d2(n?B.Ku:B.Kv,k,k,20),k,k,new A.arB(l),k,k,k),k,k,k,k,k),k,n,new A.arC())
+n=A.aGc(l.f,A.aEi(k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,"Masukkan kata sandi",k,k,k,k,k,k,k,k,k,!0,!0,!1,k,B.L0,k,k,k,k,k,k,A.MC(k,k,A.d2(n?B.Ku:B.Kv,k,k,20),k,k,new A.arB(l),k,k,k),k,k,k,k,k),k,n,new A.arC())
 m=l.w
 return A.aB(k,A.Ci(!0,A.eE(A.ev(new A.dW(B.E9,new A.da(j,!1,A.ko(A.azs(A.bx(A.b([q,B.Vy,B.a0U,B.b8,p,B.BC,B.a11,B.b8,o,B.BB,B.a0t,B.b8,n,B.bx,A.bD(A.b([A.dd(A.aD6(B.y,new A.arD(l),new A.c1(A.b0(4),B.n),B.dT,!1,m),16,16),B.cC,A.a2("Ingat saya",k,k,k,A.c6(k,k,B.af,k,k,k,k,k,k,k,k,13,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)],r),B.p,B.m,B.o,0,k),B.Vx,A.aDl(new A.arE(l),t.W0)],r),B.e4,B.m,B.o),l.d),s,k,!0),k),k),B.JI,k,B.a8),k,k),!0),B.l,B.h,k,k,k,k,k,k,k,k,k)}}
 A.arF.prototype={
@@ -89593,7 +89593,7 @@ if(s==null)s=""
 return s===this.a},
 $S:557}
 A.ark.prototype={
-$1(a){var s,r,q=this,p=null,o=A.b0(20),n=t.p,m=A.b([A.bD(A.b([A.aB(p,B.L0,B.l,p,p,new A.aI(B.h.aI(0.2),p,p,A.b0(10),p,p,B.t),p,36,p,p,p,p,36),B.bL,B.JX,A.fw(p,A.aB(p,B.L2,B.l,p,p,new A.aI(B.h.aI(0.2),p,p,A.b0(8),p,p,B.t),p,30,p,p,p,p,30),B.aa,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.arj(a),p,p,p,p,p,p)],n),B.p,B.m,B.o,0,p)],n),l=q.b
+$1(a){var s,r,q=this,p=null,o=A.b0(20),n=t.p,m=A.b([A.bD(A.b([A.aB(p,B.L_,B.l,p,p,new A.aI(B.h.aI(0.2),p,p,A.b0(10),p,p,B.t),p,36,p,p,p,p,36),B.bL,B.JX,A.fw(p,A.aB(p,B.L2,B.l,p,p,new A.aI(B.h.aI(0.2),p,p,A.b0(8),p,p,B.t),p,30,p,p,p,p,30),B.aa,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.arj(a),p,p,p,p,p,p)],n),B.p,B.m,B.o,0,p)],n),l=q.b
 if(l!=null){s=B.h.aI(0.2)
 r=A.b0(8)
 l=l.c
@@ -89808,7 +89808,7 @@ $0(){A.eJ(this.a,!1).hN(!0)
 return null},
 $S:0}
 A.aqG.prototype={
-$2(a,b){var s=this.a,r=A.b([s.wW("Total Dianalisis",""+s.e.length,B.ib,B.KL),s.wW("Lulus",""+s.DU("lulus"),B.lt,B.i5),s.wW("Cukup",""+s.DU("cukup"),B.ND,B.q_),s.wW("Tidak Lulus",""+s.DU("tidak_lulus"),B.lu,B.i4)],t.p)
+$2(a,b){var s=this.a,r=A.b([s.wW("Total Dianalisis",""+s.e.length,B.ib,B.KL),s.wW("Lulus",""+s.DU("lulus"),B.lt,B.i6),s.wW("Cukup",""+s.DU("cukup"),B.ND,B.q_),s.wW("Tidak Lulus",""+s.DU("tidak_lulus"),B.lu,B.i5)],t.p)
 if(b.b>600){s=t.g9
 s=A.Y(new A.a3(r,new A.aqE(),s),s.i("af.E"))
 return A.bD(s,B.p,B.m,B.o,0,null)}s=t.RQ
@@ -89850,8 +89850,8 @@ if(h==null)h=f
 if((i?0:j)>=60)j=B.av
 else j=(i?0:j)>=40?B.L:B.ae
 j=A.bh(A.a2(h,g,g,g,A.c6(g,g,j,g,g,g,g,g,g,g,g,g,g,g,B.ab,g,g,!0,g,g,g,g,g,g,g,g),g,g))
-if(b==="lulus")i=B.i5
-else i=b==="cukup"?B.q_:B.i4
+if(b==="lulus")i=B.i6
+else i=b==="cukup"?B.q_:B.i5
 b=A.bh(A.bD(A.b([A.d2(i,a,g,13),B.mG,new A.ia(e.a94(b),a,g)],t.p),B.p,B.m,B.ar,0,g))
 i=B.y.aI(0.08)
 h=A.b0(20)
@@ -90174,8 +90174,8 @@ n=A.bh(A.a2(h.f,j,j,j,j,j,j))
 m=c?"Aktif":"Selesai"
 m=A.bh(new A.ia(m,c?B.y:B.af,j))
 l=e==="disetujui"
-if(l)k=B.i5
-else k=e==="ditolak"?B.i4:B.pU
+if(l)k=B.i6
+else k=e==="ditolak"?B.i5:B.pU
 k=A.d2(k,d,j,13)
 if(l)e="Disetujui"
 else e=e==="ditolak"?"Ditolak":"Pending"
@@ -90272,7 +90272,7 @@ return A.L($async$ym,r)},
 J(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.b0(20)
 if(k.z)s=B.RR
 else{s=t.p
-r=A.aB(j,A.bD(A.b([A.aB(j,B.KT,B.l,j,j,new A.aI(j,j,j,A.b0(10),j,B.dm,B.t),j,34,j,j,j,j,34),B.bL,B.a0B],s),B.p,B.m,B.o,0,j),B.l,j,j,B.dU,j,j,j,B.ph,j,j,j)
+r=A.aB(j,A.bD(A.b([A.aB(j,B.KS,B.l,j,j,new A.aI(j,j,j,A.b0(10),j,B.dm,B.t),j,34,j,j,j,j,34),B.bL,B.a0B],s),B.p,B.m,B.o,0,j),B.l,j,j,B.dU,j,j,j,B.ph,j,j,j)
 q=k.e
 p=k.as
 o=A.Z(p).i("a3<1,cK<p>>")
@@ -90441,7 +90441,7 @@ q=A.b([new A.ba(0,B.C,B.L.aI(0.3),B.eu,12)],q)
 s=a.b
 s=s==null?r:s.b
 return A.aB(r,A.bD(A.b([B.bL,m,A.bD(A.b([o,B.h0,A.aB(r,A.eE(A.a2((s==null?"M":s)[0].toUpperCase(),r,r,r,B.a_c,r,r),r,r),B.l,r,r,new A.aI(r,r,r,n,q,B.fr,B.t),r,38,r,r,r,r,38),B.dF,A.MC(r,r,B.L6,r,r,new A.arJ(this,a),r,r,"Logout"),B.bL],l),B.p,B.m,B.ar,0,r)],l),B.p,B.m,B.o,0,r),B.l,r,r,new A.aI(B.h,r,r,r,p,r,B.t),r,64,r,B.pk,r,r,r)},
-a5v(a){var s=this,r=null,q=A.MC(r,r,B.L_,r,r,new A.arH(s),r,r,r),p=A.b0(9),o=s.d,n=t.p
+a5v(a){var s=this,r=null,q=A.MC(r,r,B.KZ,r,r,new A.arH(s),r,r,r),p=A.b0(9),o=s.d,n=t.p
 o=A.bD(A.b([A.aB(r,A.d2(B.qk[o],B.h,r,15),B.l,r,r,new A.aI(r,r,r,p,r,B.dm,B.t),r,30,r,r,r,r,30),B.cC,new A.lc(1,B.fk,A.a2(B.qh[o],r,B.aT,r,B.Cf,r,r),r)],n),B.p,B.m,B.ar,0,r)
 p=a.b
 p=p==null?r:p.b
@@ -90888,10 +90888,10 @@ a9b(a){switch(a){case"hadir":return B.av
 case"izin":return B.oL
 case"sakit":return B.L
 default:return B.ae}},
-a9c(a){switch(a){case"hadir":return B.i5
+a9c(a){switch(a){case"hadir":return B.i6
 case"izin":return B.KE
 case"sakit":return B.KI
-default:return B.i4}},
+default:return B.i5}},
 afP(a){var s,r,q,p
 try{s=A.a3G(a)
 r=B.c.lI(B.j.k(A.Oc(s)),2,"0")
@@ -90989,6 +90989,7 @@ n=t.N
 n=A.v(n,n)
 n.m(0,"Content-Type","application/json")
 n.m(0,"Accept","application/json")
+n.m(0,"ngrok-skip-browser-warning","1")
 if(o!=null)n.m(0,"Authorization","Bearer "+o)
 q=n
 s=1
@@ -96016,8 +96017,8 @@ B.pV=new A.b5(62922,"MaterialIcons",!1)
 B.pW=new A.b5(62973,"MaterialIcons",!1)
 B.Kx=new A.b5(62974,"MaterialIcons",!1)
 B.lm=new A.b5(62977,"MaterialIcons",!1)
-B.i4=new A.b5(62998,"MaterialIcons",!1)
-B.i5=new A.b5(63029,"MaterialIcons",!1)
+B.i5=new A.b5(62998,"MaterialIcons",!1)
+B.i6=new A.b5(63029,"MaterialIcons",!1)
 B.Ky=new A.b5(63030,"MaterialIcons",!1)
 B.Kz=new A.b5(63047,"MaterialIcons",!1)
 B.KA=new A.b5(63059,"MaterialIcons",!1)
@@ -96037,24 +96038,24 @@ B.q0=new A.b5(983636,"MaterialIcons",!0)
 B.q2=new A.dj(24,0,400,0,48,B.q,1,null,!1)
 B.KQ=new A.dj(null,null,null,null,null,B.h,null,null,null)
 B.KR=new A.dj(null,null,null,null,null,B.q,null,null,null)
-B.i6=new A.b5(983342,"MaterialIcons",!1)
-B.KS=new A.dL(B.i6,40,B.h,null,null)
 B.pZ=new A.b5(63627,"MaterialIcons",!1)
 B.q3=new A.dL(B.pZ,16,null,null,null)
-B.KT=new A.dL(B.ei,16,B.h,null,null)
-B.KU=new A.dL(B.i6,48,B.h,null,null)
+B.KS=new A.dL(B.ei,16,B.h,null,null)
+B.i4=new A.b5(58713,"MaterialIcons",!1)
+B.KT=new A.dL(B.i4,48,B.h,null,null)
+B.KV=new A.dL(B.i4,40,B.h,null,null)
 B.Kf=new A.b5(57912,"MaterialIcons",!1)
 B.KX=new A.dL(B.Kf,null,B.h,null,null)
-B.KY=new A.dL(B.i6,20,B.h,null,null)
+B.q4=new A.dL(B.i4,22,B.h,null,null)
 B.Ke=new A.b5(57496,"MaterialIcons",!1)
-B.KZ=new A.dL(B.Ke,null,null,null,null)
+B.KY=new A.dL(B.Ke,null,null,null,null)
 B.KK=new A.b5(63670,"MaterialIcons",!1)
-B.L_=new A.dL(B.KK,null,B.af,null,null)
+B.KZ=new A.dL(B.KK,null,B.af,null,null)
 B.KN=new A.b5(983236,"MaterialIcons",!1)
-B.L0=new A.dL(B.KN,18,B.h,null,null)
+B.L_=new A.dL(B.KN,18,B.h,null,null)
 B.Ki=new A.b5(58289,"MaterialIcons",!1)
-B.L1=new A.dL(B.Ki,20,null,null,null)
-B.q4=new A.dL(B.i6,22,B.h,null,null)
+B.L0=new A.dL(B.Ki,20,null,null,null)
+B.L1=new A.dL(B.i4,20,B.h,null,null)
 B.L2=new A.dL(B.pQ,16,B.h,null,null)
 B.L4=new A.dL(B.pW,16,B.L,null,null)
 B.L6=new A.dL(B.pZ,18,B.af,null,null)
@@ -97625,10 +97626,10 @@ B.JY=new A.eW(2,B.cv,B.a0I,null)
 B.Oo=s([B.K_,B.JZ,B.K1,B.JY],t.p)
 B.Tt=new A.nP(B.a5,B.m,B.o,B.p,null,B.bQ,null,0,B.Oo,null)
 B.Kw=new A.b5(62775,"MaterialIcons",!1)
-B.KV=new A.dL(B.Kw,14,B.h,null,null)
+B.KU=new A.dL(B.Kw,14,B.h,null,null)
 B.XL=new A.k(!0,B.h,null,null,null,null,11,B.aG,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0J=new A.am("Ajukan KRS",null,B.XL,null,null,null,null,null,null)
-B.MR=s([B.KV,B.dF,B.a0J],t.p)
+B.MR=s([B.KU,B.dF,B.a0J],t.p)
 B.Tu=new A.nP(B.a5,B.m,B.ar,B.p,null,B.bQ,null,0,B.MR,null)
 B.Tv=new A.Ck(1333)
 B.ma=new A.Ck(2222)
