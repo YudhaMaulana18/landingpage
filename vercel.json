@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/login", "destination": "https://paralysis-shelf-ivory.ngrok-free.dev/login" },
     { "source": "/flutter", "destination": "/flutter/" }
   ],
   "headers": [
