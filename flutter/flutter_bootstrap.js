@@ -35,15 +35,6 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"59aa584fdf100e6c78c785d8a5b565d1de4b48ab","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
-/* SIPRAKATA: unregister any existing service worker and wipe caches
-   so stale builds can never be served again. */
-if (navigator.serviceWorker) {
-  navigator.serviceWorker.getRegistrations().then((regs) => {
-    regs.forEach((r) => r.unregister());
-  });
-}
-if (window.caches) {
-  caches.keys().then((keys) => keys.forEach((k) => caches.delete(k)));
-}
+/* SIPRAKATA: unregister any existing service worker and wipe caches */
 
 _flutter.loader.load({});
