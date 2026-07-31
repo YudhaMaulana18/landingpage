@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/login", "destination": "https://paralysis-shelf-ivory.ngrok-free.app/login" },
+    { "source": "/flutter", "destination": "/flutter/" }
+  ],
+  "headers": [
+    {
+      "source": "/siprakata.apk",
+      "headers": [
+        { "key": "Content-Type", "value": "application/vnd.android.package-archive" },
+        { "key": "Content-Disposition", "value": "attachment; filename=\"siprakata.apk\"" }
+      ]
+    }
+  ]
+}
